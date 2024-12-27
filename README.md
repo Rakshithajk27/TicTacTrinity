@@ -41,7 +41,6 @@ The board looks like this:
  4 | 5 | 6 
 -----------
  1 | 2 | 3 
- 
 ```
 
 - Select a number between `1` and `9` to make your move.  
